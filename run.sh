@@ -1,0 +1,13 @@
+python ./weak_model/weak_ensemble.py
+python ./semi_strong_model/split_data.py
+python ./semi_strong_model/semi_strong_gbm.py
+python ./semi_strong_model/semi_strong_keras.py
+python ./semi_strong_model/semi_strong_ensemble.py
+python ./strong_model/split_data.py
+python ./strong_model/strong_gbm.py
+python ./strong_model/strong_keras.py
+python ./strong_model/strong_ensemble.py
+python ./ensemble_weight/split_data.py
+python ./ensemble_weight/ensemble_weight.py
+python ./ensemble_model/main_ensemble_1.py
+python ./ensemble_model/main_ensemble_2.py
