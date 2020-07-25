@@ -1,5 +1,5 @@
 ## Summary
-https://www.kaggle.com/c/flavours-of-physics
+My solution for https://www.kaggle.com/c/flavours-of-physics.
 
 The model gives 16/673 at public and private leaderboard with Weighted AUC = 0.991841. Without any usage of the following, which are prohibited in the competition:
 * Use of agreement data, correlation data
