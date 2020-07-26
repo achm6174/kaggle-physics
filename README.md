@@ -1,6 +1,6 @@
 ## Summary
 Please refer to my blog post:
-https://achm6174.github.io/data-science/kaggle/2015/10/20/chung2015kagglephysics.html
+https://achm6174.github.io/chung2015kagglephysics.html
 
 ## Instruction
 
