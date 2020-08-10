@@ -23,4 +23,4 @@ https://achm6174.github.io/chung2015kagglephysics.html
 
 
 ## Document
-`./doc/rare_decay_solution.docx`
+[`./doc/rare_decay_solution.pdf`](./doc/rare_decay_solution.pdf)
